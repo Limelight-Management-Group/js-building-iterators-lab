@@ -1,6 +1,6 @@
-// See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Map
+// See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/ForEach
 
-function myMap(arr, callback) {
+function myEach(arr, callback) {
 
 //  CODE INSIDE HERE   //
 
@@ -18,4 +18,4 @@ function myMap(arr, callback) {
 
 
 // export this function (you can ignore this for now)
-module.exports = myMap;
+module.exports = myEach;
